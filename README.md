@@ -31,9 +31,6 @@
 
 ![snake gif](https://github.com/wesley0129/wesley0129/raw/output/github-contribution-grid-snake.svg)
 
-
-<img src="https://ghchart.rshah.org/219138/wesley0129"/>
-
 </div>
 
 
