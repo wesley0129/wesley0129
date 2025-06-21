@@ -23,6 +23,12 @@
 
 </div>
 
+<h3 align="center">Top Languages Card</h3>
+<div align="center">
+
+<img src="https://ghchart.rshah.org/219138/wesley0129"/>
+
+</div>
 
 
 
