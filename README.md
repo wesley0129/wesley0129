@@ -1,5 +1,8 @@
-
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Wesley's%20Repository)
+
+</div>
 
 
 <h3 align="center">Tech Stack</h3>
@@ -23,7 +26,7 @@
 
 </div>
 
-<h3 align="center">Top Languages Card</h3>
+<h3 align="center">Contribution Graph</h3>
 <div align="center">
 
 <img src="https://ghchart.rshah.org/219138/wesley0129"/>
